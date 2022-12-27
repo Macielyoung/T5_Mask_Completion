@@ -54,7 +54,6 @@ print(completion)
 </p>
 
 
-
 #### 继续训练
 
 1. 如果你想在自己的领域语料上继续预训练，那首先使用processor目录下的process_data脚本处理你的语料，获取带mask的输入文本和完整的输出文本对。
