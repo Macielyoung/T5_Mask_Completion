@@ -7,8 +7,6 @@
 
    ![t5_architecture](pics/t5.jpeg)
 
-​																			图1. T5输入输出结构
-
 
 
 #### 如何使用
@@ -53,19 +51,9 @@ print(completion)
 
 ![demo1](pics/demo1.png)
 
-​																				图2. 案例1
-
-
-
 ![demo2](pics/demo2.png)
 
-​																				图3. 案例2
-
-
-
 ![demo2](pics/demo3.png)
-
-​																				图4. 案例3
 
 
 
