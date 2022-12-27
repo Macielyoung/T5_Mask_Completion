@@ -50,7 +50,7 @@ print(completion)
 #### 案例展示
 
 <center class='half'>
-  <img src="pics/demo1.png" width="200"/> <img src="pics/demo2.png" width="200"/> <img src="pics/demo3.png" width="200"/>
+  <img src="pics/demo1.png" width="160"/> <img src="pics/demo2.png" width="160"/> <img src="pics/demo3.png" width="160"/>
 </center>
 
 
