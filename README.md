@@ -50,7 +50,7 @@ print(completion)
 #### 案例展示
 
 <p float='left'>
-  <img src="pics/demo1.png" width="30%"/><img src="pics/demo2.png" width="30%"/><img src="pics/demo3.png" width="30%"/>
+  <img src="pics/demo1.png" width="30%"/> <img src="pics/demo2.png" width="30%"/> <img src="pics/demo3.png" width="30%"/>
 </p>
 
 
