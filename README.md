@@ -49,11 +49,9 @@ print(completion)
 
 #### 案例展示
 
-![demo1](pics/demo1.png)
-
-![demo2](pics/demo2.png)
-
-![demo2](pics/demo3.png)
+<center class='half'>
+  <img src="pics/demo1.png" width="225"/> <img src="pics/demo2.png" width="225"/> <img src="pics/demo3.png" width="225"/>
+</center>
 
 
 
